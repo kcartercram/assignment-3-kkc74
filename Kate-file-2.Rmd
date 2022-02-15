@@ -1,0 +1,19 @@
+---
+title: "Kate"
+author: "Kate"
+date: "2/15/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Information about Kate
+
+- I'm from Boise, Idaho  
+- I like coffee ice cream
+- I don't have any pets
+
+
+
