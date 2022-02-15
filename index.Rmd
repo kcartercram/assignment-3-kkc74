@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Assignment 3 Collaborative Website
 
-Kate Carter-Cram and Bryan Lu
+Kate Carter-Cram (https://github.com/kcartercram) and Bryan Lu (https://github.com/blu637)
 
 ![This is Cornell in Ithaca, NY](https://sce.cornell.edu/img/content/874-inset-full-1.jpg)
 
