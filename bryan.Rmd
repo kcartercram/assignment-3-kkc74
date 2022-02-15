@@ -1,0 +1,18 @@
+---
+title: "bryan"
+author: "Bryan"
+date: "2/15/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Some info about me
+<br>
+I am from Southern California.
+<br>
+I am studying neurobiology.
+<br>
+I am a senior in A&S.
