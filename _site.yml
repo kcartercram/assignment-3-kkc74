@@ -1,0 +1,18 @@
+name: "Kate's A3 Site"
+navbar:
+  title: "My website"
+  left:
+    - text: "home"
+      href: index.html
+    - text: "Kate"
+      href: Kate-file-2.html
+    - text: "Bryan"
+      href: bryan.html
+
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
